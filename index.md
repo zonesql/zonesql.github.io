@@ -20,9 +20,8 @@ authentication are configurable.
 ## Download and Installation
 
 ### Release
-Visit http://www.zonesql.com to download a stable release of ZoneSQL.
+Download a built release using the links above. Download and uncompress into a web accessible area, and then complete the [necessary settings](https://github.com/zonesql/zonesql/blob/master/README.md#configuration) in config.php. 
 
 ### Download Source
-Please see the github [README](https://github.com/zonesql/zonesql#download-source) for instructions how to quickly and easily download the source
-
+Please see the github [README](https://github.com/zonesql/zonesql#download-source) for instructions how to quickly and easily download the source. Tools are also made available to build and compile your source to create your own release.
 
