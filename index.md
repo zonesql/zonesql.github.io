@@ -20,12 +20,12 @@ authentication are configurable.
 ## Download and Installation
 
 ### Release
-Download the latest release, pre-built, optimised and ready for use. Download and uncompress into a web accessible area, and then complete the [required settings](https://github.com/zonesql/zonesql/blob/master/README.md#configuration) in config.php. 
+Get the latest release, pre-built, optimised and ready for use. Download and uncompress one of the following distributions into a web accessible area, and then complete the [required settings](https://github.com/zonesql/zonesql#configuration) in config.php. 
 
-<a href="https://github.com/zonesql/zonesql.github.io/blob/master/zonesql-1.0.0.zip" id="download-zip" class="button" download><span>Download ZoneSQL 1.0.0 (zip)</span></a>
+<a href="https://github.com/zonesql/zonesql.github.io/blob/master/zonesql-1.0.0.zip" id="download-zip" class="button" download><span>Download .zip</span></a>
 
-<a href="https://github.com/zonesql/zonesql.github.io/blob/master/zonesql-1.0.0.tar.gz" id="download-tar.gz" class="button" download><span>Download ZoneSQL 1.0.0 (tar.gz)</span></a>
+<a href="https://github.com/zonesql/zonesql.github.io/blob/master/zonesql-1.0.0.tar.gz" id="download-tar-gz" class="button" download><span>Download .tar.gz</span></a>
 
 ### Download Source
-Please see the github [README](https://github.com/zonesql/zonesql#download-source) for instructions how to quickly and easily download the source. Tools are also made available to build and compile your source to create your own release.
+See the github [README](https://github.com/zonesql/zonesql#download-source) for instructions how to quickly and easily download the source. Tools are also made available to build and compile your source to create your own optimised distribution release.
 
