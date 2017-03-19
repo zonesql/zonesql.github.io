@@ -20,7 +20,11 @@ authentication are configurable.
 ## Download and Installation
 
 ### Release
-Download a built release using the links above. Download and uncompress into a web accessible area, and then complete the [necessary settings](https://github.com/zonesql/zonesql/blob/master/README.md#configuration) in config.php. 
+Download the latest release, pre-built, optimised and ready for use. Download and uncompress into a web accessible area, and then complete the [required settings](https://github.com/zonesql/zonesql/blob/master/README.md#configuration) in config.php. 
+
+<a href="https://github.com/zonesql/zonesql.github.io/blob/master/zonesql-1.0.0.zip" id="download-zip" class="button"><span>Download ZoneSQL 1.0.0 (zip)</span></a>
+
+<a href="https://github.com/zonesql/zonesql.github.io/blob/master/zonesql-1.0.0.tar.gz" id="download-tar.gz" class="button"><span>Download ZoneSQL 1.0.0 (tar.gz)</span></a>
 
 ### Download Source
 Please see the github [README](https://github.com/zonesql/zonesql#download-source) for instructions how to quickly and easily download the source. Tools are also made available to build and compile your source to create your own release.
