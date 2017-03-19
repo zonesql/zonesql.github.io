@@ -9,6 +9,8 @@ interface with the familiar look and feel of some existing powerful software
 based DBMS tools. This provides an optimal platform for working with SQL and 
 data. 
 
+<img src="zonesql_screenshot.jpg" alt="ZoneSQL screenshot" />
+
 The UI provides resizable panels including a full tree view of the server,
 databases and tables, a syntax highlighted SQL query entry window, and a fully 
 featured rich dynamic grid output. The product is useful for setting up direct 
@@ -21,4 +23,6 @@ authentication are configurable.
 Visit http://www.zonesql.com to download a stable release of ZoneSQL.
 
 ### Download Source
+Please see the github [README](https://github.com/zonesql/zonesql#download-source) for instructions how to quickly and easily download the source
+
 
