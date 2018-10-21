@@ -22,21 +22,21 @@ Visit http://www.zonesql.com to download a stable release of ZoneSQL.
 
 ### Download Source
 
-The ZoneSQL full source can be downloaded using bower with the following command:
+The ZoneSQL full source can be downloaded using the following command:
 
-bower install zonesql
+git clone --recurse-submodules git://github.com/zonesql/zonesql
 
-This will download and install the ZoneSQL package as full uncompiled source 
-code including all of it's dependencies. The bower package installation process 
-will pull in third party git repos such as dojo, ace editor, dgrid into the 
-/src/ directory. The following script is supplied which will use the dojo tool 
-to compile the source js into a /dist/ directory:
+This will clone the ZoneSQL package as full uncompiled source code including 
+all of it's dependency submodules. The submodules are third party repos 
+including dojo, ace editor, dgrid and are cloned into the /src/  directory. 
+The following script is supplied which will use the dojo tool to compile the 
+source js into a /dist/ directory:
 
 /zonesql/src/buildZoneSQL.sh
 
-The 'environment' item in the /zonesql/api/config.php file can be used to switch 
-the ZoneSQL installation between 'development' and 'production', which will use 
-uncompiled /src/ vs the compiled /dist/ path respectively.
+The 'environment' property in the /zonesql/api/config.php file can be used to 
+switch the ZoneSQL installation between 'development' and 'production', which 
+will use the uncompiled /src/ or the compiled /dist/ path respectively.
 
 ## Configuration
 
