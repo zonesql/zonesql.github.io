@@ -24,7 +24,7 @@ Visit http://www.zonesql.com to download a stable release of ZoneSQL.
 
 The ZoneSQL full source can be downloaded using the following command:
 
-git clone --recurse-submodules git://github.com/zonesql/zonesql
+git clone --recurse-submodules https://github.com/zonesql/zonesql
 
 This will clone the ZoneSQL package as full uncompiled source code including 
 all of it's dependency submodules. The submodules are third party repos 
