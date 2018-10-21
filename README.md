@@ -17,8 +17,11 @@ authentication are configurable.
 
 ## Download and Installation
 
-### Release
-Visit http://www.zonesql.com to download a stable release of ZoneSQL.
+### Download Release
+
+To download the latest release, pre-built, optimised and ready for use, visit 
+http://www.zonesql.com and click one of the available releases under the 
+"Download and Installation" section.
 
 ### Download Source
 
