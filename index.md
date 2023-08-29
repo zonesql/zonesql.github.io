@@ -21,7 +21,7 @@ authentication are configurable.
 
 You can access a live demo installation of ZoneSQL to get a feel for the product here:
 
-🚀 **> [Explore the Live Demo!](https://demo.zonesql.com)** 🚀
+🚀 ** [Explore the Live Demo!](https://demo.zonesql.com)** 🚀
 
 Use the following test credentials to login:
 
