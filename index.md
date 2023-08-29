@@ -17,17 +17,16 @@ featured rich dynamic grid output. The product is useful for setting up direct
 access to databases at remote sites via simple web based access. Security and 
 authentication are configurable.
 
-## Demo
+## Live Demo
 
-You can access a demo installation of ZoneSQL to get a feel for the product here:
+You can access a live demo installation of ZoneSQL to get a feel for the product here:
 
-https://demo.zonesql.com
+🚀 **> [Explore the Live Demo!](https://demo.zonesql.com)** 🚀
 
 Use the following test credentials to login:
 
-Username: test
-
-Password: user
+**Username**: `test`
+**Password**: `user`
 
 ## Download and Installation
 
