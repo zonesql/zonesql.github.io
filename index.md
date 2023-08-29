@@ -25,8 +25,9 @@ You can access a live demo installation of ZoneSQL to get a feel for the product
 
 Use the following test credentials to login:
 
-**Username**: `test`
-**Password**: `user`
+
+> **Username**: `test`\
+> **Password**: `user`
 
 ## Download and Installation
 
